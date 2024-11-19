@@ -1,3 +1,10 @@
+#This Python script is part of a project versioned with Git.
+# Currently, I am working on the 'feature1' branch to implement improvements in data processing.
+# Using branches allows me to test new features without affecting the main version of the project.
+# Once the changes are done, the 'feature1' branch will be merged into the 'development' branch for testing.
+
+
+
 #!/usr/bin/env python3
 
 import sys
@@ -43,3 +50,5 @@ try:
 
 except ValueError:
     print("<p>Error: Please provide valid numeric inputs for all fields.</p>")
+
+

@@ -1,4 +1,10 @@
 <?php
+// This PHP file receives input from the form and processes it.
+// The version of this code is being managed via Git using branches.
+// Initial changes are being made on the 'feature1' branch, which will later be merged into the 'development' branch for testing.
+?>
+
+<?php
 // Get input values from the URL parameters
 $a = isset($_GET['a']) ? $_GET['a'] : '';
 $b = isset($_GET['b']) ? $_GET['b'] : '';
